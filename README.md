@@ -75,20 +75,7 @@ The dataset contains the following columns:
 
 ---
 
-## 📸 Screenshots
 
-> _Replace these with your actual visual output screenshots or SQL table results_
-
-- 📅 Monthly Revenue Table  
-- 🌍 Region-wise Sales Bar Chart  
-- 🥇 Top 3 Revenue Months Table  
-
-<p align="center">
-  <img src="images/monthly_revenue.png" width="600">
-  <img src="images/top_regions.png" width="600">
-</p>
-
----
 
 ## ✅ Conclusion
 
