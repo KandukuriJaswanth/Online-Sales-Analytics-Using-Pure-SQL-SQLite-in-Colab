@@ -1,14 +1,6 @@
 # Online-Sales-Analytics-Using-Pure-SQL-SQLite-in-Colab
 
-Here’s a **professional and clean GitHub `README.md` section** you can include in your repository for your SQL-based sales data analysis project in Google Colab. It includes a clear overview, visuals section, and no reference to ChatGPT.
 
-You can paste this into your GitHub repo’s `README.md` file or upload it alongside your `.ipynb` notebook.
-
----
-
-## 📌 `README.md` Template — Professional GitHub Submission
-
-```markdown
 # 📊 Online Sales SQL Analysis using Google Colab & SQLite
 
 This project performs end-to-end sales data analysis using pure SQL queries within Google Colab. The dataset includes online transaction data with date, product details, revenue, region, and more.
